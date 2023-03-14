@@ -4,7 +4,7 @@
     "background_color" : "#FFEEEE",    
     "display" : "standalone",
     "scope" : "/",
-    "start_url" : "/index.html",
+    "start_url" : "./index.html",
     "name" : "Tienda Kanelass Fashion cop",
     "short_name" : "KanelassCOL",
     "description" : "Tienda de venta de accesorios, ropa y zapatos para Colombia",
